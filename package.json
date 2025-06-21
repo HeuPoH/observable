@@ -1,0 +1,20 @@
+{
+  "name": "@vk__95/observable",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "observable",
+    "pattern"
+  ],
+  "license": "ISC",
+  "author": "VK",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
+  }
+}
